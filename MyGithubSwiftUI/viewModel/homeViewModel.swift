@@ -6,8 +6,6 @@
 //
 
 import Foundation
-import CoreLocation
-import MapKit
 import SwiftUI
 
 class homeViewModel: ObservableObject{
