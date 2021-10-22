@@ -7,7 +7,6 @@
 
 import SwiftUI
 import SDWebImageSwiftUI
-import MapKit
 
 struct HomeView: View {
     static var UrlGithub = "https://api.github.com/users/AsadullaJuraev"
